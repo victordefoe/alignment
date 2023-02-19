@@ -1,7 +1,7 @@
 
 #### Have been archived
 
-> If you have any advise or thoughts , welcome to comtact me. I woud very like to 
+> It have been archived.
 
 ### Hole Shaft Alignment
 
