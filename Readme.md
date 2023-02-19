@@ -13,8 +13,8 @@ The ellipse detector is according to the paper blow:
 ## Practical Problem: Preliminary Solution to Hole Shaft Alignment Problem
 #### 实际问题：孔轴对中问题的初步方案
 
-For specific questions and analysis reports, please refer to the "说明" folder（Only Chinese version provided）    
-（其实是个大作业，具体问题和分析报告参看 “说明”文件夹）
+For specific questions and analysis reports, please refer to the "纸质说明" folder（Only Chinese version provided）    
+（其实是个大作业，具体问题和分析报告参看 “纸质说明”文件夹）
 
 （这个大作业从分析问题、选定方案与算法、代码实现、设计调参到最终结果汇报共计耗时大约4天，实际效果一般，可以做个参考）
 
